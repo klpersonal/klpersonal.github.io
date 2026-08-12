@@ -7,5 +7,5 @@ permalink: /cv/
 # Curriculum Vitae
 
 
-[Download my CV (PDF)]({{ '/assets/files/cv.pdf' | relative_url }}){: .button }
+[Download my CV (PDF)]({{ '/assets/files/rockquestion.png' | relative_url }}){: .button }
 
